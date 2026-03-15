@@ -1,0 +1,12 @@
+
+You are generating a standardized troubleshooting guide for a medical device support team.
+
+Based on the structured device issue JSON, generate:
+
+1. Issue summary
+2. Troubleshooting steps
+3. Escalation criteria
+4. Technician notes
+
+Do NOT provide medical treatment advice.
+Focus only on device handling.
